@@ -29,17 +29,7 @@ historical prices**, I built a full data pipeline from collection to prediction.
 | Dengue surge (2023) | Insurance            | +0.43           | 2 weeks     |
 
 > Stock markets tend to react 1-3 weeks after outbreak severity escalates.
-## Sample Visualizations
 
-### Correlation Heatmap
-![Correlation Heatmap](outputs/figures/04_correlation_heatmaps.png)
-
-### Time-Lag Analysis (The Core Finding)
-![Lag Analysis](outputs/figures/09_lag_correlation_analysis.png)
-
-### Feature Importance (ML Model)
-![Feature Importance](outputs/figures/14_feature_importance.png)
----
 
 ## Project Structure
 
