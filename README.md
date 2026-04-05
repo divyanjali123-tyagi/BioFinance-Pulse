@@ -30,7 +30,11 @@ historical prices**, I built a full data pipeline from collection to prediction.
 
 > Stock markets tend to react 1-3 weeks after outbreak severity escalates.
 
+## Visualizations
 
+![Correlation Heatmap](outputs/figures/04_correlation_heatmaps.png)
+![Lag Analysis](outputs/figures/09_lag_correlation_analysis.png)
+![Feature Importance](outputs/figures/14_feature_importance.png)
 ## Project Structure
 
 ```
